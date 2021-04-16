@@ -1,3 +1,0 @@
-Main OLD - Old version dont use (Contains Analysis of high symptom rate forecasts)
-Main Amendement - New version (use) => fixed testing algorithm, Does not remove Actual Outliers
-Main V2 - Compare same window size of L with L_hat
